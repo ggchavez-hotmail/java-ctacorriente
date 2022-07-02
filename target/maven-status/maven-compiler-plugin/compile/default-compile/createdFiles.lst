@@ -1,8 +1,0 @@
-webapp\model\UserModel.class
-webapp\utility\DataUtility.class
-webapp\controller\LoginCTL.class
-webapp\controller\RegistrationCTL.class
-webapp\utility\DataValidator.class
-webapp\beans\UserBeans.class
-webapp\utility\JDBCDataSource.class
-webapp\utility\ServletUtility.class
